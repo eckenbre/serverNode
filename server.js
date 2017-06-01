@@ -41,4 +41,4 @@ app.use('/', router);
 // Start the server
 app.listen(port);
 console.log("Starting Floo network....")
-console.log('Angular ToDo App listening on port : ' + port);
+console.log('Angular Server listening on port : ' + port);
