@@ -40,5 +40,5 @@ app.use('/', router);
 
 // Start the server
 app.listen(port);
-console.log("Starting Floo network....")
+console.log("Starting Floo network...")
 console.log('Angular Server listening on port : ' + port);
