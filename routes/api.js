@@ -16,7 +16,7 @@ console.log(email)
 
 if(email === "eckenbre@gmail.com" )
     {
-        var response = { "nombre" : "Alejandro", "apellido": "von Eckenbrecher", "email":"eckenbre@gmail.com", "twitter": "@eckenbre" };
+        var response = { "nombre" : "Alejandro", "apellido": "von Eckenbrecher", "email":"vonecken@ar.ibm.com", "twitter": "@eckenbre" };
         res.send(response);
 
 
